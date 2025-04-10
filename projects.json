@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Region Name",
+    "description": "API Key for \"k7\"",
+    "full_des": "l",
+    "status": "Mee-bezig",
+    "owner": "jorisd1265",
+    "sharedWith": [
+      "jorisd12"
+    ],
+    "adver": false,
+    "imageUrl": "/uploads/1744284963269-318952008-Master (1).png"
+  },
+  {
+    "name": "nom",
+    "description": "borrito pizza",
+    "full_des": "spicy",
+    "status": "Mee-bezig",
+    "owner": "jorisd1265",
+    "sharedWith": [
+      "jorisd12"
+    ],
+    "adver": false,
+    "imageUrl": "/uploads/1744285044623-519670753-album_2025-03-11_15-32-31.png"
+  }
+]

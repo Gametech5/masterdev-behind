@@ -1,0 +1,161 @@
+[
+  {
+    "username": "test",
+    "password": "$2b$10$SyzlZpVBaGUGkfreNmhbuOSmys52V/vtRm0g1StbYp57IOc94Hz/6",
+    "rank": "SECRET RANK",
+    "role": "user",
+    "tokens": 10050412457
+  },
+  {
+    "username": "jorisd12",
+    "password": "$2b$10$YcEdJyL7Q2rMXeoFGs1m5uzqCeo3BjXx.avJC9krXYbyDfNU1AOci",
+    "rank": "SECRET RANK",
+    "role": "mentor",
+    "tokens": 1234501290
+  },
+  {
+    "username": "17773",
+    "password": "$2b$10$zh7ZzGpqVPsnlEI0C39AyeWZm9oGTChzHuaWz88NGa794JzBwE5CO",
+    "rank": "broke",
+    "role": "user",
+    "tokens": 0
+  },
+  {
+    "username": "177734",
+    "password": "$2b$10$s7mhDdhg8OSa7VKhgIRxeOzCjA8feDL4Sd1jMmrd4LV2i9OHGl2w6",
+    "rank": "SECRET RANK",
+    "role": "user",
+    "tokens": 99999999999882420
+  },
+  {
+    "username": "joris9210@gmail.com",
+    "password": "$2b$10$FAfWp35/W7E72NrXvuEuCu65Fcjz8Sdr9ugDsMdPJL6sDRacNdGTS",
+    "rank": "broke",
+    "role": "user",
+    "tokens": -1000
+  },
+  {
+    "username": "lollie",
+    "password": "$2b$10$Ux/S.MkrDF6FY5Ch6YLpwuyq7YY5VVFYorcfIW9I3znHtEHUdRmYO",
+    "rank": "broke",
+    "role": "user",
+    "tokens": -1000
+  },
+  {
+    "username": "joris",
+    "password": "$2b$10$6lqkMpVOM4HfmLOLIP169e3IeeuPVDJxMyU1pEohW/BmKMDOWR6hy",
+    "rank": "broke",
+    "role": "mentor",
+    "tokens": -1000
+  },
+  {
+    "username": "Aap",
+    "password": "$2b$10$91W9PfSbw8hxIrQhZ.ZmYu72D5W7ui25OgDkQ4ISjdJn2.V0RS4AK",
+    "rank": "broke",
+    "role": "user",
+    "tokens": -1000
+  },
+  {
+    "username": "Lentest",
+    "password": "$2b$10$s0zbpFm.G5pARVbD/Cj5duPi/GGl0ZAnpQX6LwSdykulgzyp3cUKm",
+    "rank": "broke",
+    "role": "user",
+    "tokens": -1000
+  },
+  {
+    "username": "jorisd12wqerdf",
+    "password": "$2b$10$tyHAwPX4lGrIwv2RE3CBzuc9o9wMc6wjcrgN8KYEBi3P2u7nsYeCG",
+    "rank": "broke",
+    "role": "user",
+    "tokens": -1000,
+    "mentor": "dil"
+  },
+  {
+    "username": "jorisd12wqerdfxcv ",
+    "password": "$2b$10$jLDD7FOcVXWEjmreYPpoRuC0g9Sb/eDVDKX2SHWGMEkrlH2nPn0fa",
+    "rank": "broke",
+    "role": "user",
+    "tokens": -1000,
+    "mentor": "dil"
+  },
+  {
+    "username": "jorisd1265",
+    "password": "$2b$10$mLqQ9it7Dox/RhFm62NVAu1h4xgjrzlFfUWkcvwr1RRPIYq3VV.b2",
+    "rank": "broke",
+    "role": "user",
+    "tokens": -1000,
+    "mentor": "jorisd12"
+  },
+  {
+    "username": "Marten",
+    "password": "$2b$10$8sD6Zs/7gxjP8RuK6TV4m.GDzgbju1xxzgs06csMMFsg5f26o7uea",
+    "rank": "broke",
+    "role": "user",
+    "tokens": -1000,
+    "mentor": ""
+  },
+  {
+    "username": "ids-vochteloo",
+    "password": "$2b$10$oWEr5RPvkHY84O1sAhli/.MPru3Kkl4.89ehvNZUhJcR9rAJYiiAO",
+    "rank": "broke",
+    "role": "user",
+    "tokens": -1000,
+    "mentor": ""
+  },
+  {
+    "username": "jorisd12sadf",
+    "password": "$2b$10$syWqyEBEtvPE5Sf43bUiJOxOUvjZNgaUocA7x4K0RIV/4NtRFTk5O",
+    "rank": "broke",
+    "role": "user",
+    "tokens": -1000,
+    "mentor": "Dil"
+  },
+  {
+    "username": "jorisd12sd",
+    "password": "$2b$10$SS3FvHx/QC5ixnGN92UkQutvxeMzs0PrMpT7818Gh54LD3K.dEDHu",
+    "rank": "broke",
+    "role": "user",
+    "tokens": -1000,
+    "mentor": "jorisd12"
+  },
+  {
+    "username": "tigo-kamp",
+    "password": "$2b$10$hrZ.Cra3qIsJrxWi0wieeeFgUyAf8rJgTmFZkZkX7axfjetNFlPu.",
+    "rank": "broke",
+    "role": "user",
+    "tokens": -1000,
+    "mentor": ""
+  },
+  {
+    "username": "creditj",
+    "password": "$2b$10$RskA7ms.yjzOVjevjRSWwO9nYU5WoGMgCEk7iDAYvoWrAJTWkR.82",
+    "rank": "broke",
+    "role": "user",
+    "tokens": -1000,
+    "mentor": ""
+  },
+  {
+    "username": "swd",
+    "password": "$2b$10$6fRwrqAJ4P8G39dC7cTd9ujaCsJRJXzK1rhVSHYi9FFPNzpMDlT82",
+    "rank": "broke",
+    "role": "user",
+    "tokens": -1000,
+    "mentor": ""
+  },
+  {
+    "username": "ffffffffff",
+    "password": "$2b$10$cf.l7xBKYVYPJOwSvr9dQuPwDGSF39XRtagtqdXDjEDPIO.M8RcpK",
+    "rank": "broke",
+    "role": "user",
+    "tokens": -1000,
+    "mentor": "f"
+  },
+  {
+    "username": "ghbt",
+    "password": "$2b$10$DXSxrKu2DC6CnZ2M1woFsO2uKphp16xMZwa9F/woFXMf1jSfiDnK6",
+    "rank": "broke",
+    "role": "user",
+    "tokens": -1000,
+    "mentor": ""
+  }
+]
